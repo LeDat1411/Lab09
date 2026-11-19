@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA602C2-BB02-432D-8C60-2116BEA82E84}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\admin\\source\\repos\\calculator\\calculatorapp.tests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA602C2-BB02-432D-8C60-2116BEA82E84}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA602C2-BB02-432D-8C60-2116BEA82E84}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\admin\\source\\repos\\calculator\\calculatorapp.tests\\calculatorapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EA602C2-BB02-432D-8C60-2116BEA82E84}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\calculatorapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1070A0-268A-4A30-A3CC-AE830414EA3E}|Calculator\\Calculator.csproj|c:\\users\\admin\\source\\repos\\calculator\\calculator\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1070A0-268A-4A30-A3CC-AE830414EA3E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA602C2-BB02-432D-8C60-2116BEA82E84}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\admin\\source\\repos\\calculator\\calculatorapp.tests\\calculatorcsvtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA602C2-BB02-432D-8C60-2116BEA82E84}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\calculatorcsvtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA602C2-BB02-432D-8C60-2116BEA82E84}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\admin\\source\\repos\\calculator\\calculatorapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA602C2-BB02-432D-8C60-2116BEA82E84}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1070A0-268A-4A30-A3CC-AE830414EA3E}|Calculator\\Calculator.csproj|c:\\users\\admin\\source\\repos\\calculator\\calculator\\basicmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1070A0-268A-4A30-A3CC-AE830414EA3E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\basicmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Calculator\\CalculatorApp.Tests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Tests\\BankAccountTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Calculator\\CalculatorApp.Tests\\BankAccountTests.cs",
+              "RelativeToolTip": "CalculatorApp.Tests\\BankAccountTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T20:03:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Calculator\\Calculator\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Calculator\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Calculator\\Calculator\\BankAccount.cs",
+              "RelativeToolTip": "Calculator\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T20:01:19.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorApp.Tests",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Calculator\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+              "RelativeDocumentMoniker": "CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Calculator\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+              "RelativeToolTip": "CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-18T19:38:32.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorCsvTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Calculator\\CalculatorApp.Tests\\CalculatorCsvTests.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Tests\\CalculatorCsvTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Calculator\\CalculatorApp.Tests\\CalculatorCsvTests.cs",
+              "RelativeToolTip": "CalculatorApp.Tests\\CalculatorCsvTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T19:31:19.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Calculator\\CalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Calculator\\CalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T19:01:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicMaths.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Calculator\\Calculator\\BasicMaths.cs",
+              "RelativeDocumentMoniker": "Calculator\\BasicMaths.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Calculator\\Calculator\\BasicMaths.cs",
+              "RelativeToolTip": "Calculator\\BasicMaths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T19:03:59.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
